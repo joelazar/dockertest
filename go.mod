@@ -15,10 +15,10 @@ require (
 	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v1.0.3
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
-	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	gotest.tools/v3 v3.1.0
 )
 
